@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning how to make games and code
 - 💞️ I’m looking to collaborate on mod menus for mod ideas.
 - 📫 How to reach me: Discord
+Software:
+https://visualstudio.microsoft.com/downloads/ Visual Studio Community 2019
