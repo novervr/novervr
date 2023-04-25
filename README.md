@@ -7,4 +7,4 @@ I'm currently learning...
 
 **C#** <img src="![image](https://raw.githubusercontent.com/novervr/novervr/main/c%23.jpg)" style="width:2%;" />and use **Visual Studio Community 2019** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/330px-React-icon.svg.png" style="width:2%;" />
 
-[<img src ="https://img.shields.io/badge/Github-%22.svg?style=flat-square&logo=&logoColor=white%22">](https://github.com/pixthehe)[<img src ="https://img.shields.io/badge/Website-blue?style=flat-square&logo=&logoColor=white%22"> ](https://devinlittle.net)
+[<img src ="https://img.shields.io/badge/Github-%22.svg?style=flat-square&logo=&logoColor=white%22">](https://github.com/novervr)
