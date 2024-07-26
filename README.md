@@ -3,7 +3,7 @@ To contact me, DM me on Discord with username: photonnetwork._
 
 i created a few games.
 
-a mod developer, i dont know what to say 💀
+a retired mod developer, i dont know what to say 💀
 
 --- BEGIN RANDOM STATS NO ONE READS ---
 
